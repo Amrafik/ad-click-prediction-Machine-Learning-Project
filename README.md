@@ -1,3 +1,9 @@
 # Advertising Click Prediction 🎯
-**Machine learning pipeline for predicting whether users will click ads based on behavioral and demographic features. Includes EDA, preprocessing, classification models (LogReg, SVM, RF), evaluation, PCA visualization, and clustering.
-**
+This project predicts whether a user will click on an ad based on features like age, income, internet usage, and time of day. The pipeline includes:
+✅ Data exploration  
+✅ Feature engineering  
+✅ Model training (LogReg, SVM, RF, KNN, etc.)  
+✅ Cross-validation and visualizations  
+✅ PCA and clustering analysis  
+
+> Built with: pandas, scikit-learn, seaborn, matplotlib
