@@ -73,7 +73,8 @@ Target Variable:
 
 ## 📎 Run in Google Colab
 
-[![Open In Colab]([[https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Amrafik/ad-click-prediction-Machine-Learning-Project/blob/main/Advertising_ML_Project.ipynb](https://colab.research.google.com/drive/1IwYbsT3HmI_h-XsRYisAePWjkSn1iLYM#scrollTo=LmZ8gvo7wEV8)](https://colab.research.google.com/drive/1k8Tk2Tw3EbBH-d7lENals_5ftLjP-h8X))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Amrafik/ad-click-prediction-Machine-Learning-Project/blob/main/Advertising_ML_Project.ipynb)
+
 
 ---
 
