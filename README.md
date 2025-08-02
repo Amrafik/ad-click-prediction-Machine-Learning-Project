@@ -25,7 +25,6 @@ Target Variable:
 ## 📊 Dataset
 
 - Name: `advertising.csv`
-- [📎 View on GitHub](https://github.com/Amrafik/ad-click-prediction-Machine-Learning-Project/blob/main/advertising.csv)
 - Includes features such as:
   - `Daily Time Spent on Site`
   - `Age`
