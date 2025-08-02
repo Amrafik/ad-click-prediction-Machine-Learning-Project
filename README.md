@@ -1,3 +1,4 @@
+
 # 🎯 Advertising Click Prediction – Machine Learning Project
 
 This project builds a machine learning pipeline to predict whether a user will click on an online advertisement, using demographic and behavioral features such as age, income, daily internet usage, and time-based information.
@@ -62,3 +63,40 @@ Target Variable:
 
 ## 📁 Project Structure
 
+```
+├── advertising.csv              # Dataset (hosted on GitHub)
+├── Advertising_ML_Project.ipynb # Complete Colab-compatible notebook
+├── README.md                    # Project overview
+```
+
+---
+
+## 📎 Run in Google Colab
+
+[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Amrafik/ad-click-prediction-Machine-Learning-Project/blob/main/Advertising_ML_Project.ipynb](https://colab.research.google.com/drive/1IwYbsT3HmI_h-XsRYisAePWjkSn1iLYM#scrollTo=LmZ8gvo7wEV8))
+
+---
+
+## 🛠 Built With
+
+- [Python](https://www.python.org/)
+- [scikit-learn](https://scikit-learn.org/)
+- [Pandas](https://pandas.pydata.org/)
+- [Matplotlib](https://matplotlib.org/)
+- [Seaborn](https://seaborn.pydata.org/)
+- [Kaggle Datasets](https://www.kaggle.com/datasets)
+
+---
+
+## 📌 Author
+
+**Amr Rafik**  
+📍 [GitHub](https://github.com/Amrafik) | [Kaggle](https://www.kaggle.com/amrrafik)  
+✉️ Passionate about machine learning, data storytelling, and applied AI.
+
+---
+
+## ✅ Project Status
+
+✔️ Completed – ready to run in Colab  
+📊 Useful as a template for binary classification problems  
