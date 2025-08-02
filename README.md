@@ -92,7 +92,7 @@ Target Variable:
 ## 📌 Author
 
 **Amr Rafik**  
-📍 [GitHub](https://github.com/Amrafik) | [Kaggle](https://www.kaggle.com/amrrafik)  
+📍 [GitHub](https://github.com/Amrafik) 
 ✉️ Passionate about machine learning, data storytelling, and applied AI.
 
 ---
